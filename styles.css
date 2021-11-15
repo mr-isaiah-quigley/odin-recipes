@@ -1,0 +1,18 @@
+img {
+    height: auto;
+    width: 400px;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+ul.head,
+ul.foot {
+    list-style-type: none;
+}
